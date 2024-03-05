@@ -1,0 +1,16 @@
+test\Scripts\activate
+cd Devden
+
+
+
+pip install django
+pip install twilio
+python -m pip install Pillow
+
+SuperUser - Wizard
+Password - test@123
+
+kapil@gmail.com
+Kapil123@
+
+127.0.0.1:8000/admin
